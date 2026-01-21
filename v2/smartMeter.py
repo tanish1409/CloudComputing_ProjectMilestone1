@@ -12,7 +12,7 @@ files=glob.glob("*.json")
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=files[0];
 
 # Set the project_id with your project ID
-project_id="my-project-40667-485013";
+project_id="hidden-conquest-485021-q5";
 topic_name = "smartMeter";   # change it for your topic name if needed
 
 # create a publisher and get the topic path for the publisher
